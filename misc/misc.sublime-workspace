@@ -1,0 +1,581 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sample",
+				"sample_changed"
+			],
+			[
+				"Sam",
+				"sample_changed_again"
+			],
+			[
+				"dict",
+				"dictionary_to_use"
+			],
+			[
+				"dic",
+				"dictionary"
+			],
+			[
+				"mediu",
+				"medium_dic"
+			],
+			[
+				"di",
+				"dictionary_to_use"
+			],
+			[
+				"easy",
+				"easy_dic"
+			],
+			[
+				"hard",
+				"hard_dic"
+			],
+			[
+				"medium",
+				"medium_sample"
+			],
+			[
+				"sam",
+				"sample_changed_again"
+			],
+			[
+				"sample_ch",
+				"sample_changed_again"
+			],
+			[
+				"game",
+				"game_level_guess"
+			],
+			[
+				"__",
+				"___1___"
+			],
+			[
+				"choice",
+				"choice_pos"
+			],
+			[
+				"_",
+				"___2___"
+			],
+			[
+				"sampl",
+				"sample_changed"
+			],
+			[
+				"___",
+				"___2___"
+			],
+			[
+				"guess",
+				"guess_count"
+			],
+			[
+				"dc",
+				"dic_sample"
+			],
+			[
+				"level",
+				"level_and_guess"
+			],
+			[
+				"number",
+				"number_of_guesses"
+			],
+			[
+				"fill",
+				"fill_in_the_blank"
+			],
+			[
+				"fil",
+				"fill_in_the_blank"
+			],
+			[
+				"word",
+				"word_in_pos"
+			],
+			[
+				"greate",
+				"greatest_number"
+			],
+			[
+				"grea",
+				"greatest_number"
+			],
+			[
+				"list",
+				"list_of_numbers"
+			],
+			[
+				"count",
+				"count_list"
+			],
+			[
+				"rand",
+				"random_list"
+			],
+			[
+				"random",
+				"random_list"
+			],
+			[
+				"days",
+				"daysOfMonths"
+			],
+			[
+				"month",
+				"month1"
+			],
+			[
+				"co",
+				"counting_days"
+			],
+			[
+				"to",
+				"total_days"
+			],
+			[
+				"next",
+				"nextDay"
+			],
+			[
+				"years",
+				"years_in_days"
+			],
+			[
+				"year",
+				"years_in_days"
+			],
+			[
+				"dif",
+				"dif_day"
+			],
+			[
+				"is",
+				"isLeapYear"
+			],
+			[
+				"ex",
+				"example_list_2"
+			],
+			[
+				"prit",
+				"print_all_elements"
+			],
+			[
+				"ran",
+				"random_noun"
+			],
+			[
+				"mad",
+				"mad_lib"
+			],
+			[
+				"rando",
+				"random_verb"
+			],
+			[
+				"pro",
+				"processed"
+			],
+			[
+				"wor",
+				"word_transformer"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"ref",
+				"ext_refs_and_backlinks_status_edir"
+			],
+			[
+				"p",
+				"part_sync_status_edir"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"padd",
+				"padding-right"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "misc1.py",
+			"settings":
+			{
+				"buffer_size": 163,
+				"line_ending": "Windows",
+				"name": "import time"
+			}
+		},
+		{
+			"file": "misc2",
+			"settings":
+			{
+				"buffer_size": 840,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "twilio",
+			"settings":
+			{
+				"buffer_size": 486,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "misc",
+			"settings":
+			{
+				"buffer_size": 4,
+				"line_ending": "Windows",
+				"name": "misc"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 181.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Eduardo/Google Drive/udacity/Portfolio/Stage 2 Project/fill-in-the-blanks.py",
+		"/C/Users/Eduardo/Google Drive/udacity/Portfolio/2.1/Stage 2 Project.sublime-project",
+		"/C/Users/Eduardo/Downloads/Sessions.XML",
+		"/C/Users/Eduardo/Google Drive/udacity/Portfolio/2.1/find_element",
+		"/C/Users/Eduardo/Google Drive/udacity/Portfolio/2.1/file2",
+		"/C/Users/Eduardo/Google Drive/udacity/Projects/tic-tac-toe/tic-tac-toe.py",
+		"/C/Users/Eduardo/Google Drive/udacity/Portfolio/2.1/word transformer",
+		"/C/Users/Eduardo/Google Drive/udacity/Projects/tic-tac-toe/tic-tac-toe.sublime-project",
+		"/C/Users/Eduardo/Google Drive/udacity/Portfolio/2.1/nextDay.py",
+		"/C/Users/Eduardo/Google Drive/github/stage1/DaysBetweenDays-Udacity Version",
+		"/C/Users/Eduardo/Google Drive/github/stage1/DaysBetweenDays-V1",
+		"/C/Users/Eduardo/Google Drive/udacity/Portfolio/2.1/playground2.py",
+		"/C/Users/Eduardo/Google Drive/udacity/Portfolio/2.1/playground",
+		"/C/Users/Eduardo/Google Drive/udacity/Portfolio/2.1/tool.py",
+		"/C/Users/Eduardo/AppData/Local/Temp/Rar$EXa0.744/NetIQ-IdentityManager-dev_20140610/SDK_README.html",
+		"/C/Users/Eduardo/Google Drive/udacity/Portfolio/2.1/2.6 starter code - FOR",
+		"/C/Users/Eduardo/Google Drive/github/stage1/process madlib1",
+		"/C/Users/Eduardo/Google Drive/udacity/Portfolio/2.1/randint.py",
+		"/C/Users/Eduardo/Google Drive/udacity/Portfolio/2.1/median2",
+		"/C/Users/Eduardo/Google Drive/github/stage1/2.6 starter code",
+		"/C/Users/Eduardo/Google Drive/github/stage1/For Loop Playground",
+		"/C/Users/Eduardo/Google Drive/udacity/Portfolio/2.1/process madlib",
+		"/C/Users/Eduardo/Google Drive/udacity/Portfolio/2.1/file1.py",
+		"/C/Users/Eduardo/Downloads/AON/eDirectory Monitor/eDir_health_check.sh",
+		"/C/Users/Eduardo/Google Drive/github/stage1/index.html",
+		"/C/Users/Eduardo/Google Drive/github/stage1/style.css",
+		"/C/Users/Eduardo/Google Drive/github/stage1/.git/COMMIT_EDITMSG",
+		"/C/Users/Eduardo/AppData/Local/GitHub/PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c/mingw32/share/doc/git-doc/git-push.html",
+		"/C/Users/Eduardo/Google Drive/github/stage1/test.html",
+		"/C/Users/Eduardo/Google Drive/github/stage1/.git/config",
+		"/C/Users/Eduardo/Google Drive/udacity/Portfolio/toplist/style.css",
+		"/C/Users/Eduardo/Google Drive/udacity/Portfolio/toplist/app.html",
+		"/C/Users/Eduardo/Google Drive/udacity/Portfolio/practice/style.css",
+		"/C/Users/Eduardo/Google Drive/udacity/Portfolio/practice/index.html",
+		"/C/Users/Eduardo/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Eduardo/Google Drive/udacity/css-demo/app.html",
+		"/C/Users/Eduardo/Google Drive/udacity/css-demo/style.css",
+		"/C/Users/Eduardo/Google Drive/udacity/css-demo/index.html",
+		"/C/Users/Eduardo/Google Drive/udacity/stage1/style.css",
+		"/C/Users/Eduardo/Google Drive/udacity/app.html",
+		"/C/Users/Eduardo/Google Drive/udacity/stage1-worksession1.html",
+		"/C/Users/Eduardo/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"return",
+			"ExtraArgs=\"\"",
+			"Hewitt-Webauth",
+			"L4DSLDP8",
+			"d2",
+			"d1",
+			"m2",
+			"m1",
+			"y2",
+			"y1",
+			"eDir",
+			"Edir",
+			"#EMAIL",
+			"admin@company.com",
+			"Edir1",
+			"eDir1",
+			"largest",
+			"content"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ExtraArgs=\"-pw #%$x#ndR$4\"",
+			"Hewitt-Webauth-PROD-EXT",
+			"L98SIPLD1410",
+			"L98SIPLD1410\nL98SIPLD1410\nL98SIPLD1410\nL98SIPLD1410\nL98SIPLD1410\nL98SIPLD1410\nL98SIPLD1410",
+			"day2",
+			"day1",
+			"month2",
+			"month1",
+			"year2",
+			"year1",
+			"$HOSTNAME",
+			"$EMAIL",
+			"#EMAIL",
+			"$HOSTNAME",
+			"text-content"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "misc1.py",
+					"settings":
+					{
+						"buffer_size": 163,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								163,
+								163
+							]
+						],
+						"settings":
+						{
+							"auto_name": "import time",
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "misc2",
+					"settings":
+					{
+						"buffer_size": 840,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								743,
+								743
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 23.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "twilio",
+					"settings":
+					{
+						"buffer_size": 486,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								486,
+								486
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"settings":
+					{
+						"buffer_size": 4,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4,
+								4
+							]
+						],
+						"settings":
+						{
+							"auto_name": "misc",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 206.0
+	},
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true
+}
